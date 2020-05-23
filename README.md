@@ -1,5 +1,6 @@
 # Whack A Mole AR
 ![](name-of-giphy.gif)
+
 The purpose of this game was to entertain and encrouage people to stay at home during this pandemic crisis.
 ## How the game was build
  - The entire game was build using Spark AR studio
